@@ -1,4 +1,5 @@
 <?php
+namespace MercadoLibre\SDK\Meli;
 
 class Meli {
 
